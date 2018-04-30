@@ -1,0 +1,21 @@
+Robert Kozak - 101032361
+Zaccaheus leung- 101035212
+
+
+ ______ _______ _______ ______ ______ _____  ______ ______      _______ ______
+|      |       |   |   |   __ \__    |  |  ||      |    __|    |   _   |__    |
+|   ---|   -   |       |    __/    __|__    |  --  |  __  |    |       |    __|
+|______|_______|__|_|__|___|  |______|  |__||______|______|____|___|___|______|
+                                                         |______|
+
+
+node version: Tested on v6.10.3 AND v8.9.4
+Built and tested using MAC OSX
+used wasd keys and the arrow keys to play pong
+
+Installation  --------
+To execute the program:
+node server.js
+
+Test by going to
+ http://127.0.0.1:3000/html
